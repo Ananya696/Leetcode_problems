@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
