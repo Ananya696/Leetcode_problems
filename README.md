@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -22,4 +23,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
