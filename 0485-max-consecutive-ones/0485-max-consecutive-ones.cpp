@@ -5,10 +5,12 @@ public:
         for(int i=0;i<nums.size();i++)
         {   if(nums[i]==1)
                 c++;
-            else{
-                count=max(count,c);
+            else
+            {
+                if(c>count)
+                    count=c;
                 c=0;
-            }
+            } 
         }
         if(c>count)
             count=c;
