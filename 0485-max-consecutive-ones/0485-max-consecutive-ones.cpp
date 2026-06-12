@@ -5,7 +5,7 @@ public:
         for(int i=0;i<nums.size();i++)
         {   if(nums[i]==1)
                 c++;
-            else
+            else if(nums[i]==0)
             {
                 if(c>count)
                     count=c;
