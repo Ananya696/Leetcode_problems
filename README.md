@@ -13,17 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
