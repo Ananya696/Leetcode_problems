@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya696/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
