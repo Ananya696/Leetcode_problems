@@ -10,6 +10,7 @@ public:
                 {
                     vec.push_back(i);
                     vec.push_back(j);
+                    return vec;
                 }
             }
         }
