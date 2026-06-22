@@ -11,6 +11,7 @@ public:
             {
                 vec.push_back(i);
                 vec.push_back(m[e]);
+                break;
             }
             m[nums[i]]=i;
         }   
