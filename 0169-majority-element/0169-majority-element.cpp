@@ -14,6 +14,8 @@ public:
             else 
                 count--;
         }
+        if(count==0)
+            return -1;
         return ans;
     }
 };
