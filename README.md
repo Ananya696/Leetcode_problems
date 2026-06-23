@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ananya696/Leetcode_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ananya696/Leetcode_problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ananya696/Leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
