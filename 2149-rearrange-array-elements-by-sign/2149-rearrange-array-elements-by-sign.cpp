@@ -27,8 +27,6 @@ public:
              arr[i]=vec1[j];
              i--;
          }
-         else
-            return arr;
      }
      return arr;
     }
