@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ananya696/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
