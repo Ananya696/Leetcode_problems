@@ -14,15 +14,14 @@ public:
         reverse(nums.begin(),nums.end());
     else
     {
-        for(int i=index+1;i<nums.size();i++)                //O(n)
+        for(int i=nums.size()-1;i>index;i--)                //O(n)
         {
-            if(nums[i]>nums[index]&&nums[i]-nums[index]<=min)
+            if(nums[i]>nums[index])
             {
-                min=nums[i]-nums[index];
-                sm_in=i;
+                swap(nums[index],nums[i]);
+                break;
             }
         }
-        swap(nums[index],nums[sm_in]);                //O(1)
         reverse(nums.begin()+(index+1),nums.end());  //O(n)
     }
 }
