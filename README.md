@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ananya696/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ananya696/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ananya696/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ananya696/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
