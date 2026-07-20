@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ananya696/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ananya696/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ananya696/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 ## Stack
 |  |
 | ------- |
