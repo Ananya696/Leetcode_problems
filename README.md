@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ananya696/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ananya696/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ananya696/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
