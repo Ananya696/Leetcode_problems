@@ -6,7 +6,7 @@ public:
         return 0;
     else{
         int l=1,h=x;
-        long mid;
+        long long mid;
         while(l<=h)
         {
             mid=l+(h-l)/2;
@@ -19,6 +19,5 @@ public:
         }
         return ans;                     //can return high (h) also..
     }
-    return ans;
     }
 };
