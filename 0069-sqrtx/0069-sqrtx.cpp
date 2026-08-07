@@ -6,18 +6,18 @@ public:
         return 0;
     else{
         int l=1,h=x;
-        int mid;
+        long mid;
         while(l<=h)
         {
             mid=l+(h-l)/2;
             if(mid*mid>x)
                 h=mid-1;
-            else if(mid*mid<=x)
+            else if(mid*mid<=x)   //check condn
             {   ans=mid;
                 l=mid+1;
             }
         }
-        return ans;
+        return ans;                     //can return high (h) also..
     }
     return ans;
     }
