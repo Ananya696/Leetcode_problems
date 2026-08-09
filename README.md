@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ananya696/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0875-koko-eating-bananas](https://github.com/Ananya696/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/Ananya696/Leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ananya696/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Ananya696/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
