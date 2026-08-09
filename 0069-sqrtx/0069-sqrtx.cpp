@@ -17,7 +17,7 @@ public:
                 l=mid+1;
             }
         }
-        return ans;                     //can return high (h) also..
+        return h;                     //can return high (h) also..
     }
     }
 };
