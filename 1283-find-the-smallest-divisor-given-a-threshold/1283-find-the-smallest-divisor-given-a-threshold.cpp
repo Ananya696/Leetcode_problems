@@ -9,7 +9,7 @@ public:
             mid=l+(h-l)/2;
             sum=0;
             for(int i=0;i<nums.size();i++)
-                sum=sum+ceil((float)nums[i]/mid);               //smallest divisor=mid              
+                sum=sum+(nums[i] + mid - 1) / mid   ;           //smallest divisor=mid              
             if(sum<=threshold)
                 h=mid-1;
             else    
