@@ -3,7 +3,8 @@ public:
     int smallestDivisor(vector<int>& nums, int threshold) {
         int maxe=*max_element(nums.begin(),nums.end());
         // int mine=*min_element(nums.begin(),nums.end());
-        int l=1,h=maxe,sum=0,mid;
+        int l=1,h=maxe,mid;
+        long long sum;
         while(l<=h)
         {
             mid=l+(h-l)/2;
