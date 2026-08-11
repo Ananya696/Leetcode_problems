@@ -6,7 +6,7 @@ public:
             h+=weights[i];
         int l=*max_element(weights.begin(),weights.end());
         long long mid;
-        int c,day_w,ans;
+        int c,day_w;
         while(l<=h)
         {   
             day_w=0,c=0;
@@ -23,13 +23,10 @@ public:
             }
             c++;
             if(c<=days)
-            {
-                ans=mid;
                 h=mid-1;
-            }
             else 
                 l=mid+1;
         }
-        return ans;
+        return l;
     }
 };
