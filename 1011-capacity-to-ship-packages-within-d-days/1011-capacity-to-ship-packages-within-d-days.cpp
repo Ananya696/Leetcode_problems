@@ -6,27 +6,30 @@ public:
             h+=weights[i];
         int l=*max_element(weights.begin(),weights.end());
         long long mid;
-        int c,day_w;
+        int cal_days,sum_pack,ans;
         while(l<=h)
         {   
-            day_w=0,c=0;
             mid=l+(h-l)/2;
+            cal_days=0,sum_pack=0;
             for(int i=0;i<weights.size();i++)
             { 
-                day_w+=weights[i];
-                if(day_w>mid)
+                sum_pack+=weights[i];
+                if(sum_pack>mid)
                 {
-                    day_w=0;
+                    sum_pack=0;
                     i--;
-                    c++;
+                    cal_days++;
                 }
             }
-            c++;
-            if(c<=days)
+            cal_days++;
+            if(cal_days<=days)
+            {
+                ans=mid;
                 h=mid-1;
+            }
             else 
                 l=mid+1;
         }
-        return l;
+        return ans;
     }
 };
