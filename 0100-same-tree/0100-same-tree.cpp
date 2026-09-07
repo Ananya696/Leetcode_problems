@@ -18,10 +18,10 @@ public:
             return false;
         if(!(p->val==q->val))   
             return false;
-        int lch=isSameTree(p->left,q->left);
+        bool lch=isSameTree(p->left,q->left);
         if(!lch)
             return false;
-        int rch=isSameTree(p->right,q->right);
+        bool rch=isSameTree(p->right,q->right);
         if(!rch)
             return false;
         return true;
