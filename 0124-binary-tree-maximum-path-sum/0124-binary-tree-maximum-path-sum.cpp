@@ -19,9 +19,7 @@ public:
         rp=maxPS(root->right,maxps);
         // total=lp+rp+root->val;
         maxps=max(maxps,lp+rp+root->val);
-        if(max(lp,rp)+root->val<0)
-            return 0;
-        return max(lp,rp)+root->val;
+        return max(0,max(lp,rp)+root->val);
     }
     int maxPathSum(TreeNode* root) {
         int mps=INT_MIN;
