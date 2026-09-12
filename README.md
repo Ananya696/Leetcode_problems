@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya696/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ananya696/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ananya696/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Ananya696/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ananya696/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ananya696/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ananya696/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Ananya696/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
