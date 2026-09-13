@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ananya696/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ananya696/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ananya696/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Ananya696/Leetcode_problems/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ananya696/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ananya696/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ananya696/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ananya696/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
