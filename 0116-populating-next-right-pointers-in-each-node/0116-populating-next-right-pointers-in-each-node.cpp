@@ -29,9 +29,12 @@ public:
             for(int i=0;i<size;i++){
                 Node* newnode=q.front();
                 q.pop();
-                if(prev!=NULL)
+                if(prev!=NULL){
                     prev->next=newnode;
-                prev=newnode;
+                    prev=prev->next;
+                }
+                else
+                    prev=newnode;
                 if(newnode->left)
                     q.push(newnode->left);
                 if(newnode->right)
