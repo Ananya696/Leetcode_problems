@@ -7,9 +7,7 @@ public:
             if(numbers[l]+numbers[r]==target){
                 ans.push_back(l+1);
                 ans.push_back(r+1);
-                l++;
-                 r--;
-                // return ans;
+                return ans;
             }
             else if(numbers[l]+numbers[r]<target)
                 l++;
