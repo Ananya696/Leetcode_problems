@@ -9,38 +9,38 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-// class Solution {
-// public:
-//     bool isSameTree(TreeNode* p, TreeNode* q) {
-//         if(p==NULL&&q==NULL)
-//             return true;
-//         else if(p==NULL||q==NULL)
-//             return false;
-//         if(!(p->val==q->val))   
-//             return false;
-//         bool lch=isSameTree(p->left,q->left);
-//         if(!lch)
-//             return false;
-//         bool rch=isSameTree(p->right,q->right);
-//         if(!rch)
-//             return false;
-//         return true;
-//     }
-// };
-
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if (p == NULL && q == NULL)
+        if(p==NULL&&q==NULL)
             return true;
-
-        if (p == NULL || q == NULL)
+        else if(p==NULL||q==NULL)
             return false;
-
-        if (p->val != q->val)
+        if(p->val!=q->val)   
             return false;
-
-        return isSameTree(p->left, q->left) &&
-               isSameTree(p->right, q->right);
+        bool lch=isSameTree(p->left,q->left);
+        if(!lch)
+            return false;
+        bool rch=isSameTree(p->right,q->right);
+        if(!rch)
+            return false;
+        return true;
     }
 };
+
+// class Solution {
+// public:
+//     bool isSameTree(TreeNode* p, TreeNode* q) {
+//         if (p == NULL && q == NULL)
+//             return true;
+
+//         if (p == NULL || q == NULL)
+//             return false;
+
+//         if (p->val != q->val)
+//             return false;
+
+//         return isSameTree(p->left, q->left) &&
+//                isSameTree(p->right, q->right);
+//     }
+// };
