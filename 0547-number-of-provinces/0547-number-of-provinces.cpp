@@ -1,13 +1,5 @@
 class Solution {
 public:
-    void dfs(int city,vector<vector<int>>&isconnected,vector<bool>&visited)
-    {
-        visited[city]=true;
-        for(int j=0;j<isconnected.size();j++){
-            if(isconnected[city][j]==1 && visited[j]==false)
-                dfs(j,isconnected,visited);
-        }
-    }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
         vector<bool>visited(n,false);
@@ -17,7 +9,21 @@ public:
             if(visited[i]==false)
             {
                 provinces++;
-                dfs(i,isConnected,visited);
+                queue<int>q;
+                q.push(i);
+                visited[i]=true;
+                while(!q.empty()){
+                    int city=q.front();
+                    q.pop();
+                    for(int j=0;j<n;j++)
+                    {
+                        if(isConnected[city][j]==1 && visited[j]==false)
+                        {
+                            visited[j]=true;
+                            q.push(j);
+                        }
+                    }
+                }
             }
         }
         return provinces;
