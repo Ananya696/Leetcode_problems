@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ananya696/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Ananya696/Leetcode_problems/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ananya696/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ananya696/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ananya696/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Ananya696/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0968-binary-tree-cameras](https://github.com/Ananya696/Leetcode_problems/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ananya696/Leetcode_problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ananya696/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ananya696/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ananya696/Leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Ananya696/Leetcode_problems/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
 | ------- |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ananya696/Leetcode_problems/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ananya696/Leetcode_problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
