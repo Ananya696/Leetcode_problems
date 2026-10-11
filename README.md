@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ananya696/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ananya696/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Ananya696/Leetcode_problems/tree/master/0141-linked-list-cycle) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
