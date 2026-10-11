@@ -10,14 +10,13 @@
  */
 class Solution {
 public:
-    ListNode* swapPairs(ListNode* &head) {
+    ListNode* swapPairs(ListNode* head) {
     if(head==NULL || head->next==NULL)
             return head;
-    else{
-        ListNode* temp=head;
+    ListNode* temp=head;
         int c=0;
         ListNode* dummy;
-        while(temp!=NULL && temp->next!=NULL){
+    while(temp!=NULL && temp->next!=NULL){
             if(c){
                 dummy->next=temp->next;
             }
@@ -30,9 +29,6 @@ public:
             temp=temp->next->next;
             c++;
         }
-    }
-    return head;
-       
-        
+         return head;
     }
 };
