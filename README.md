@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ananya696/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ananya696/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ananya696/Leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ananya696/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ananya696/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Ananya696/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ananya696/Leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ananya696/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
