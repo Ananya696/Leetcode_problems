@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ananya696/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ananya696/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ananya696/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0070-climbing-stairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ananya696/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ananya696/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ananya696/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ananya696/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
