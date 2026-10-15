@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ananya696/Leetcode_problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Ananya696/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Ananya696/Leetcode_problems/tree/master/0147-insertion-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Ananya696/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ananya696/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ananya696/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ananya696/Leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
