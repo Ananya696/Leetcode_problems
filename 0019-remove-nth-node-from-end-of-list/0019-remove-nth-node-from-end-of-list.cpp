@@ -19,20 +19,22 @@ public:
             size++;
             temp=temp->next;
         }
-        int nsize=size-n;
         temp=head;
-        if(!nsize){
+        if(n==size)
+        {
             head=head->next;
-            delete(temp);
-            return head;
+            delete temp;
         }
-        while(--nsize){
+        else{
+        int nsize=size-n-1;
+        while(nsize--){
             temp=temp->next;
         }
         ListNode* dummy=temp->next;
         temp->next=dummy->next;
         dummy->next=NULL;
         delete dummy;
-        return head;
+    }
+    return head;
     }
 };
