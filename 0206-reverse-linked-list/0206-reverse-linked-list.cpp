@@ -19,12 +19,12 @@ public:
             temp=temp->next;
         }
         temp=head;
-        while(temp!=NULL)
+        while(!st.empty())
         {
             temp->val=st.top();
             st.pop();
             temp=temp->next;
         }
-        return head;
+        return head;            //TC-O(2n) and SC=O(n)
     }
 };
