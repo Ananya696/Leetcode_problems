@@ -2,11 +2,15 @@ class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
         vector<int>vec;
-        sort(nums.begin(),nums.end());
+        int eqel=0,lessele=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==target)
-                vec.push_back(i);
+                eqel++;
+            else if(nums[i]<target)
+                lessele++;
         }
+        for(int i=lessele;i<lessele+eqel;i++)
+            vec.push_back(i);
         return vec;
     }
 };
