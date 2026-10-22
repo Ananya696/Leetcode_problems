@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ananya696/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya696/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Ananya696/Leetcode_problems/tree/master/0135-candy) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Number Theory
 |  |
 | ------- |
