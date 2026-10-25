@@ -13,7 +13,7 @@ public:
         ListNode* tempB=headB;
         unordered_map<ListNode*,int>mp;
         while(tempA!=NULL){
-            if(mp.find(tempA)==mp.end())
+            // if(mp.find(tempA)==mp.end())
                  mp[tempA]=1;
             tempA=tempA->next;
         }
