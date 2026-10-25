@@ -11,18 +11,33 @@ public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         ListNode* tempA=headA;
         ListNode* tempB=headB;
-        unordered_map<ListNode*,int>mp;
+        int ca=0,cb=0;
         while(tempA!=NULL){
-            // if(mp.find(tempA)==mp.end())
-                 mp[tempA]=1;
+            ca++;
             tempA=tempA->next;
         }
-       while(tempB!=NULL)
-        {
-            if(mp.find(tempB)!=mp.end())
-                return tempB;
+        while(tempB!=NULL){
+            cb++;
             tempB=tempB->next;
         }
-        return NULL;
+        int diff=abs(ca-cb);
+        tempA=headA;
+        tempB=headB;
+        if(ca>cb)
+        {
+            while(diff--)
+                tempA=tempA->next;
+        }
+        else if(cb>ca){
+            while(diff--)
+                tempB=tempB->next;
+        }
+        
+        while(tempA!=tempB)
+        {
+            tempA=tempA->next;
+            tempB=tempB->next;
+        }
+        return tempA;
     }
 };
