@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/Ananya696/Leetcode_problems/tree/master/2784-check-if-array-is-good) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ananya696/Leetcode_problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya696/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Ananya696/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
