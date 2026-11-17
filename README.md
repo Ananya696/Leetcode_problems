@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ananya696/Leetcode_problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ananya696/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya696/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Ananya696/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ananya696/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Ananya696/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Ananya696/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ananya696/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Ananya696/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ananya696/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
