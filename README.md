@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ananya696/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ananya696/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ananya696/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/Ananya696/Leetcode_problems/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ananya696/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ananya696/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ananya696/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ananya696/Leetcode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Ananya696/Leetcode_problems/tree/master/3360-stone-removal-game) |
 ## Union-Find
 |  |
 | ------- |
